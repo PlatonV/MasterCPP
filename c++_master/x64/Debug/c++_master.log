@@ -1,0 +1,22 @@
+﻿Build started 5/16/2016 9:57:04 AM.
+     1>Project "D:\c++_master\c++_master\c++_master.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\QT\5.6\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\QT\5.6\msvc2015_64\include\QtCore /ID:\QT\5.6\msvc2015_64\include\QtGui /ID:\QT\5.6\msvc2015_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt TutorialQt.cpp
+         TutorialQt.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\c++_master\x64\Debug\\c++_master.exe" /NOLOGO /LIBPATH:D:\QT\5.6\msvc2015_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\c++_master\x64\Debug\c++_master.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\c++_master\x64\Debug\c++_master.lib" /MACHINE:X64 x64\Debug\Duration.obj
+         x64\Debug\moc_master_cpp.obj
+         x64\Debug\moc_TutorialQt.obj
+         x64\Debug\qrc_myclass.obj
+         x64\Debug\main.obj
+         x64\Debug\myclass.obj
+         x64\Debug\Repository.obj
+         x64\Debug\TutorialController.obj
+         x64\Debug\TutorialQt.obj
+         x64\Debug\Utils.obj
+         c++_master.vcxproj -> D:\c++_master\x64\Debug\c++_master.exe
+     1>Done Building Project "D:\c++_master\c++_master\c++_master.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.84
